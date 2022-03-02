@@ -1,5 +1,5 @@
 name=Beatrix "The Bride" Kiddo
 id=BeatrixKiddo
-description=This is an example mod containing two maps.
+description=Adds Beatrix Beatrix "The Bride" Kiddo as a profession
 require=ProfessionFramework
 poster=poster.png
